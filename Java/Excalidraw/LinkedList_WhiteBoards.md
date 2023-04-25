@@ -19788,10 +19788,10 @@ created.
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1012.4030791291539,
-		"scrollY": 2941.365220126771,
+		"scrollX": 929.1572576448502,
+		"scrollY": 3703.6236979166665,
 		"zoom": {
-			"value": 0.8316456618509293
+			"value": 0.15000000000000002
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

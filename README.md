@@ -1,2 +1,1 @@
-Test
-TEST TEST TEST 
+These are my notes pretaining to my Java code fellows course
